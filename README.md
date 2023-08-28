@@ -1,6 +1,4 @@
 - 👋 Hi, I’m @SwaroopSorte
-- 👀 I’m interested in Technology     
-- 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on Projects
 - 📫 How to reach me swaroops.cse@sbjit.edu.in
 
